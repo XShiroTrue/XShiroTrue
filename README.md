@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=39C5BB&height=230&section=header&text=SPEED&fontSize=84&fontColor=ffffff&stroke=ff4fa3&strokeWidth=2&animation=twinkling&fontAlignY=38&desc=%E2%99%AA%20Developer%20%C2%B7%20Designer%20%C2%B7%20Miku%20Blue%20Enjoyer%20%E2%99%AA&descSize=18&descAlignY=60" width="100%" alt="Speed" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39C5BB&height=230&section=header&text=KenchiroTru&fontSize=58&fontColor=ffffff&stroke=ff4fa3&strokeWidth=2&animation=twinkling&fontAlignY=38&desc=%E2%99%AA%20Developer%20%C2%B7%20Designer%20%C2%B7%20Miku%20Blue%20Enjoyer%20%E2%99%AA&descSize=18&descAlignY=60" width="100%" alt="KenchiroTru" />
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=39C5BB&center=true&vCenter=true&width=640&lines=Hi!+I'm+Speed+%F0%9F%92%99;I+code+when+I'm+bored+%E2%99%AA;And+when+school+says+I+have+to+%F0%9F%93%9A;Design+first%2C+always+in+Miku+blue+%E2%9C%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=39C5BB&center=true&vCenter=true&width=640&lines=Hi!+I'm+KenchiroTru+%F0%9F%92%99;I+code+when+I'm+bored+%E2%99%AA;And+when+school+says+I+have+to+%F0%9F%93%9A;Design+first%2C+always+in+Miku+blue+%E2%9C%A6" alt="Typing SVG" />
 </a>
 
 ![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=39C5BB&style=for-the-badge&label=VISITORS)
